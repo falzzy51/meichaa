@@ -5,7 +5,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: white;
+    color: black;
     font-size: 1.03em;
     font-family: "Poppins", sans-serif;
 }
@@ -40,12 +40,13 @@ span{
     width: 108%;
     height: 80px;
     position: fixed;
-    background-color: #007acc;
+    background-color: #FF8FAB;
     /* background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 1), #F3D250, #F3D250, #F3D250, rgba(0, 0, 0,0.5)); */
     box-shadow: 0 7px 15px rgba(0, 0, 0, 0.25);
     padding-right: 7.5%;
     padding-left: 3%;
     z-index: 999;
+    color: black;
 }
 
 .brand{
@@ -111,7 +112,7 @@ footer{
     bottom: 0;
     width: 100%;
     height: 50px;
-    background-color: #007acc;
+    background-color: #FF8FAB;
     position: fixed;
     box-shadow: 0 7px 15px rgba(0, 0, 0, 0.5);
     margin-top: auto; 
@@ -124,7 +125,7 @@ div.main{
     min-height: 160vh;
     padding-top: 100px;
     font-family: "Poppins", sans-serif;
-    background: #3e3e42;
+    background: #FF8FAB;
 	background-size: 400% 400%;
 	height: 125vh;
 }
@@ -155,7 +156,7 @@ div.main{
     text-align: center;
     max-width: 600px;
     background: rgba( 255, 255, 255, 0.25 );
-    box-shadow: 0 8px 32px 0 rgba(46, 143, 255, 0.37);
+    box-shadow: 0 8px 32px 0 rgba(255, 0, 208, 0.459);
     backdrop-filter: blur( 3.5px );
     -webkit-backdrop-filter: blur( 3.5px );
     border: 1px solid rgba( 255, 255, 255, 0.18 );
